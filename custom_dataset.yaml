@@ -1,0 +1,9 @@
+# Paths (use forward slashes "/" for Windows compatibility)
+train: C:\Users\manns\Downloads\software_oid\OIDv4_ToolKit\OID\Dataset\train\Dataset\images\train
+val: C:\Users\manns\Downloads\software_oid\OIDv4_ToolKit\OID\Dataset\train\Dataset\images\val
+
+# Number of classes
+nc: 41  # Replace with your number of classes
+
+# Class names (replace with your classes)
+names : ['Coffee', 'Tea', 'Dress', 'Bear', 'Waffle', 'Pancake', 'Bagel', 'Teapot', 'Popcorn', 'Necklace', 'Chair', 'Shirt', 'Earrings', 'Desk', 'Laptop', 'Television', 'Headphones', 'Banana', 'Apple', 'Toaster', 'Bicycle', 'Pen', 'Cookie', 'Coin', 'Calculator', 'Dairy', 'Oven', 'Whiteboard', 'Hat', 'Wardrobe', 'Skirt', 'Egg', 'Guitar', 'Bed', 'Pumpkin', 'Trousers', 'Cabbage', 'Carrot', 'Mango', 'Jeans', 'Car']
